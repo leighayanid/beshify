@@ -20,7 +20,7 @@
           v-if="beshy"
         >
           <h1 class="bg-pink-500 text-md p-3 flex justify-between">
-            Generated content 💅
+            Generated text 💅
             <span
               @click="copyToClipboard"
               class="cursor-pointer bg-pink-800 px-3 rounded-lg text-sm grid place-items-center"
