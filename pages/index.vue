@@ -39,9 +39,9 @@
 </template>
 
 <script setup lang="ts">
-const beshy = ref<String>("");
-const beshified = ref<String>("");
-const copied = ref<Boolean>(false);
+const beshy = ref<string>("");
+const beshified = ref<string>("");
+const copied = ref<boolean>(false);
 
 useSeoMeta({
   title: "Beshify mo na yan.. UWU",
